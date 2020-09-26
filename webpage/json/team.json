@@ -1,0 +1,13 @@
+var team = `[{
+    "name": "Fran",
+    "author": "fran@index.com",
+    "image": "img/person-1.jpg"
+}, {
+    "name": "Bill",
+    "author": "bill@index.com",
+    "image": "img/person-2.jpg"
+}, {
+    "name": "Fritz",
+    "author": "fritz@index.com",
+    "image": "img/person-3.jpg"
+}]`;
